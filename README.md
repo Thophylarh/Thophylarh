@@ -2,7 +2,7 @@
 
 
 
-<p>I am a software developer with a cumulative of 3 years experience.My skills set include TypeScript,Java, Node.JS, Express, React, JavaScript, HTML, CSS, Boostrap, REST APIs, JSON, Git, GitHub, Docker, DockerHub, Cpanel Hosting.
+<p>I am a software developer with a cumulative of 1 year experience.My skills set include TypeScript,Java, Node.JS, Express, React, JavaScript, HTML, CSS, Boostrap, REST APIs, JSON, Git, GitHub, Docker, DockerHub, Cpanel Hosting.
 </p>
 <p>
 If it will solve a problem, I want to be part of it. Solving problems excites me. My focus is always on the problem, I take my time to think out critically and come up with an optimal solution before converting the solution to clean and executable codes.
